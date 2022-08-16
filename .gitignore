@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 *.swp
-puzzle-input.txt
+puzzle-input*.txt

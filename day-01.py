@@ -45,7 +45,7 @@ def test_find_position_at_basement_entry():
 
 ####################
 
-instructions = parse_input('puzzle-input.txt')
+instructions = parse_input('puzzle-input-day-01.txt')
 
 # Part 1
 test_follow_all_instructions()
